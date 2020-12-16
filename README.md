@@ -1,0 +1,2 @@
+# Autotune-PID-Controller
+This repository contains an autotune PID controller algorithm. It has three different optimization algorithms: GA, PSO, and VNS, which are used separately. The algorithm was used in a structure with two brushless motors on its edges and an IMU 6050 on the center. This structure is fixed on a wood base. The goal of this algorithm is to find the optimal PID constants that stabilize this structure.
